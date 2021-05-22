@@ -1,0 +1,17 @@
+
+.head {
+    background-color: yellow;
+    margin: 0;
+}
+
+.bodyClass {
+    margin: 5px;
+}
+
+.card {
+    background-color: #f4f4f4 !important;
+}
+
+.btn {
+    padding: 0;
+}
